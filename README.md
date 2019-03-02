@@ -11,4 +11,4 @@ Printf is written by me, because i’m tired of using putnbr and putstr.
 make
 ```
 # Call it
-  ft_printf("%s contient : %s", filename, str);
+  ft_printf("%s content : %s", filename, str);
